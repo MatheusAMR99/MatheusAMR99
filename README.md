@@ -1,4 +1,4 @@
-# Olá, eu sou Matheus Augusto 👋
+# Olá, eu sou o Matheus 👋
 
 # 🎯 Profissional de Dados com foco em Engenharia de Dados, ETL, Data Warehouse e soluções analíticas.
 
