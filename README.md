@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou Matheus Augusto 👋
 
-<!--
-**MatheusAMR99/MatheusAMR99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎯 Profissional de Dados com foco em Engenharia de Dados, ETL, Data Warehouse e soluções analíticas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- Apache Hop
+- SQL
+- MySQL
+- Data Warehouse
+- Modelagem Dimensional
+- Metabase
+- Git
+- GitHub
+
+---
+
+## 📊 Projeto em Destaque
+
+### 🏪 Retail Data Warehouse
+
+Projeto desenvolvido para análise de vendas utilizando:
+
+- Pipeline ETL com Apache Hop
+- Camada de Staging
+- Modelagem Star Schema
+- Data Warehouse em MySQL
+- Dashboards analíticos no Metabase
+
+---
+
+## 📚 Atualmente Estudando
+
+- Engenharia de Dados
+- Arquitetura de Dados
+- Orquestração de Pipelines
+- Cloud Computing
+- Data Modeling
+
+---
+
+## 📍 Localização
+
+São Paulo - SP
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/matheus-augusto-martins/
+- GitHub: https://github.com/MatheusAMR99
